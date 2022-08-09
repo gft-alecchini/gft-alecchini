@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alberto Lecchini
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me a85t@gft.com
